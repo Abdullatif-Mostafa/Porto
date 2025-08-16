@@ -25,7 +25,10 @@
   "overrides": {
     "react-lorem-component": {
       "react": "^18.3.1"
-    }
+    },
+    "react-scripts": {
+    "typescript": "^5.0.0"
+  }
   },
   "scripts": {
     "start": "react-scripts start",
