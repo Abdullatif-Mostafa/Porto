@@ -105,7 +105,7 @@ const projectsData = [
     link: 'https://iphone-website-beige-omega.vercel.app/',
     category_ar: 'Frontend',
     category_en: 'Frontend',
-    featured: true,
+    // featured: true,
   },
   {
     title_ar: 'يوتيوب ميني',
@@ -116,7 +116,7 @@ const projectsData = [
     technologies: ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],
     link: 'https://mini-youtube.vercel.app/',
     category_ar: 'Frontend',
-    featured: true,
+    // featured: true,
   }
   ,
   {
